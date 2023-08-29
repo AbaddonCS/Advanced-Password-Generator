@@ -45,7 +45,7 @@ time.sleep(1)
 banner = f"""
          _nnnn_                      
         dGGGGMMb     ,______________.
-       @p~qp~~qMb    | {Fore.MAGENTA}Hey Qutie{Fore.RESET}   |
+       @p~qp~~qMb    | {Fore.MAGENTA}Hey Cutie{Fore.RESET}   |
        M|@||@) M|   _;______________|
        @,----.JM| -'
       JS^\__/  qKL
